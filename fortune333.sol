@@ -5,7 +5,7 @@ pragma solidity 0.4.25;
 *
 * ETH CRYPTOCURRENCY DISTRIBUTION PROJECT v 2.0
 * Web              - https://fortune333.online
-* GitHub           - https://github.com/Fortune333/
+* GitHub           - https://github.com/fortune333/Fortune333
 * Email:             mailto:support(at sign)fortune333token
 * 
 * 

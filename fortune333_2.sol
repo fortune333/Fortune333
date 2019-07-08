@@ -21,8 +21,8 @@ pragma solidity 0.4.26;
 * 3.33% is paid to the referral (inviting) wallet - right there! Instantly!
 * 3.33% is added to the first contribution of the referral (new investor).
 * For example: Your first contribution is 1 Ether.
-* The one who invited you gets 0.022 Ethers on his wallet, that is, a wallet that the investor will indicate when they first invest in a smart contract in the DATE field
-* The invited (new investor) will receive an additional 2.22% referral bonus to their contribution, that is, the contribution of the new investor will be 1,022 Ethers!
+* The one who invited you gets 0.033 Ethers on his wallet, that is, a wallet that the investor will indicate when they first invest in a smart contract in the DATE field
+* The invited (new investor) will receive an additional 3.33% referral bonus to their contribution, that is, the contribution of the new investor will be 1,033 Ethers!
 * 
 *
 * RECOMMENDED GAS LIMIT: 200,000
